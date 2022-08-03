@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/caiosbentes/teste-package/issues"
   },
-  "homepage": "https://github.com/caiosbentes/teste-package#readme"
+  "homepage": "https://github.com/caiosbentes/teste-package#readme",
+  "publishConfig": {
+     "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
