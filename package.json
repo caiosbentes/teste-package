@@ -16,4 +16,7 @@
     "url": "https://github.com/caiosbentes/teste-package/issues"
   },
   "homepage": "https://github.com/caiosbentes/teste-package#readme"
+  "publishConfig": {
+     "@caiosbentes:registry": "https://npm.pkg.github.com"
+   }
 }
